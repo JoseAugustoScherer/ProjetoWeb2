@@ -21,6 +21,12 @@ Landing page para uma escola de música!
   <img alt="projeto DEV Links" src=".github/TomJazzSchooL.png" width="100%">
 </p>
 
+<br>
+
+<p align="center">
+  <a  href="https://joseaugustoscherer.github.io/tomjazzscholl/" target="_blank">Acesse o site aqui!</a>
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
